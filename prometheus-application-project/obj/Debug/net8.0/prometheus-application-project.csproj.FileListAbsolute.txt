@@ -441,3 +441,4 @@ C:\Development\prometheus-application-project\prometheus-application-project\obj
 C:\Development\prometheus-application-project\prometheus-application-project\obj\Debug\net8.0\prometheus-application-project.pdb
 C:\Development\prometheus-application-project\prometheus-application-project\obj\Debug\net8.0\prometheus-application-project.genruntimeconfig.cache
 C:\Development\prometheus-application-project\prometheus-application-project\obj\Debug\net8.0\ref\prometheus-application-project.dll
+C:\Development\prometheus-application-project\prometheus-application-project\obj\Debug\net8.0\prometheus-application-project.sourcelink.json
